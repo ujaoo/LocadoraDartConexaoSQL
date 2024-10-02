@@ -1,2 +1,2 @@
-# LocadoraDartConexaoSQL
-Projeto desenvolvido em DART, ele simula o sistema de uma locadora com conexão a banco de dados.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
